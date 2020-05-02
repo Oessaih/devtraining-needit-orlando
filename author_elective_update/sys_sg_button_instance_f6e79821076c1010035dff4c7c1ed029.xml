@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Update Sd">57745c6d072c1010035dff4c7c1ed0f1</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Update Sd</label>
+        <location>trailing_swipe</location>
+        <name>Update Sd</name>
+        <order>20</order>
+        <parent>868b330907a01010035dff4c7c1ed0e6</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-02 21:16:23</sys_created_on>
+        <sys_id>f6e79821076c1010035dff4c7c1ed029</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Sd</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f6e79821076c1010035dff4c7c1ed029</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-02 21:16:23</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=f6e79821076c1010035dff4c7c1ed029"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c38dda74db18d7c45904f897bf96195d</instance_id>
+        <instance_name>dev50014</instance_name>
+        <name>sys_sg_button_instance_f6e79821076c1010035dff4c7c1ed029</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Update Sd">57745c6d072c1010035dff4c7c1ed0f1</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Update Sd</label><location>trailing_swipe</location><name>Update Sd</name><order>20</order><parent>868b330907a01010035dff4c7c1ed0e6</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-02 21:16:23</sys_created_on><sys_id>f6e79821076c1010035dff4c7c1ed029</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Sd</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_f6e79821076c1010035dff4c7c1ed029</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-02 21:16:23</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=f6e79821076c1010035dff4c7c1ed029"/></record_update>]]></payload>
+        <payload_hash>1334359521</payload_hash>
+        <record_name>Update Sd</record_name>
+        <reverted_from/>
+        <source>3f83fb0107a01010035dff4c7c1ed0ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-02 21:16:23</sys_created_on>
+        <sys_id>7ae79821076c1010035dff4c7c1ed02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d73f519d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-02 21:16:23</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>b2e79821cb6c10105c0a988f1fe21c2b</update_guid>
+        <update_guid_history>b2e79821cb6c10105c0a988f1fe21c2b:1334359521</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-02 21:16:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>b320f49b94ec4224aabb2f3d54d13431</sys_id>
+        <sys_metadata>f6e79821076c1010035dff4c7c1ed029</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Sd</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_f6e79821076c1010035dff4c7c1ed029</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_f6e79821076c1010035dff4c7c1ed029">7ae79821076c1010035dff4c7c1ed02b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-02 21:16:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
